@@ -46,7 +46,7 @@ Requisitos Previos:
 - Clonar el repositorio (Terminal):
 
   ```bash
-  git clone https://github.com/YoelUb/Actividad2
+  git clone https://github.com/YoelUb/Actividad2.git
   
 # Contacto
 # Si tienes preguntas o sugerencias, contacta con yurqubar@myuax.com.
