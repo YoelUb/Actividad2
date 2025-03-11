@@ -1,0 +1,15 @@
+@startuml
+
+class Recomendacion implements IRecomendacion {
+
+    - private int ID
+    - private int idFlujoDeTrabajo
+    - private String recomendacion
+    - private int priority
+    - private LocalTime fechaRecomenadacion
+    + public void aplicarRecomendacion()
+
+
+}
+
+@enduml
