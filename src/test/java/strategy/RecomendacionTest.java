@@ -1,8 +1,8 @@
-package Strategy1;
+package strategy;
 
-import com.Actividad2.Strategy.EstrategiaRecomendacion;
-import com.Actividad2.Strategy.Recomendacion;
-import com.Actividad2.Strategy.RecomendacionHistorica;
+import com.actividad2.strategy.EstrategiaRecomendacion;
+import com.actividad2.strategy.Recomendacion;
+import com.actividad2.strategy.RecomendacionHistorica;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 

@@ -1,11 +1,12 @@
-package FactoryMethod;
+package factorymethod;
 
-import com.Actividad2.FactoryMethod.RecomendacionFactory;
-import com.Actividad2.FactoryMethod.RecomendacionSimpleFactory;
-import core.IRecomendacion;
+import com.actividad2.factorymethod.RecomendacionFactory;
+import com.actividad2.factorymethod.RecomendacionSimpleFactory;
+import com.actividad2.core.IRecomendacion;
 import org.junit.jupiter.api.Test;
-import strategy.RecomendacionHistorica;
-import static org.junit.jupiter.api.Assertions.*;
+import com.actividad2.strategy.RecomendacionHistorica;
+
+import static org.junit.jupiter.api.Assertions.assertNotNull;
 
 public class RecomendacionFactoryTest {
 

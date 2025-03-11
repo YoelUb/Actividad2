@@ -1,4 +1,4 @@
-package com.Actividad2.Adapter;
+package com.actividad2.adapter;
 
 public class ServicioRecomendacionExterno {
     public String obtenerSugerencia() {

@@ -1,4 +1,4 @@
-package com.Actividad2.Strategy;
+package com.actividad2.strategy;
 
 public class RecomendacionHistorica implements EstrategiaRecomendacion {
     @Override

@@ -1,7 +1,7 @@
-package com.Actividad2.FactoryMethod;
+package com.actividad2.factorymethod;
 
-import com.Actividad2.Strategy.EstrategiaRecomendacion;
-import com.Actividad2.core.IRecomendacion;
+import com.actividad2.strategy.EstrategiaRecomendacion;
+import com.actividad2.core.IRecomendacion;
 
 public interface RecomendacionFactory {
 

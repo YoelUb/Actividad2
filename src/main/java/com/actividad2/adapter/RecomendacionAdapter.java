@@ -1,7 +1,7 @@
-package com.Actividad2.Adapter;
+package com.actividad2.adapter;
 
 
-import com.Actividad2.core.IRecomendacion;
+import com.actividad2.core.IRecomendacion;
 
 public class RecomendacionAdapter implements IRecomendacion {
     private ServicioRecomendacionExterno servicioExterno;

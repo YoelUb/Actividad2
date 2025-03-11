@@ -1,4 +1,4 @@
-package com.Actividad2.core;
+package com.actividad2.core;
 
 public interface IRetraso {
 

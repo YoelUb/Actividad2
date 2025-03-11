@@ -1,6 +1,6 @@
-package com.Actividad2.Strategy;
+package com.actividad2.strategy;
 
-import com.Actividad2.core.IRecomendacion;
+import com.actividad2.core.IRecomendacion;
 
 public class Recomendacion implements IRecomendacion {
     private EstrategiaRecomendacion estrategia;

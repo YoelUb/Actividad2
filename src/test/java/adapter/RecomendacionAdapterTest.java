@@ -1,8 +1,8 @@
-package Adapter;
+package adapter;
 
-import com.Actividad2.Adapter.RecomendacionAdapter;
-import com.Actividad2.Adapter.ServicioRecomendacionExterno;
-import core.IRecomendacion;
+import com.actividad2.adapter.RecomendacionAdapter;
+import com.actividad2.adapter.ServicioRecomendacionExterno;
+import com.actividad2.core.IRecomendacion;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
