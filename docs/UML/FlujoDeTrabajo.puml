@@ -6,7 +6,7 @@ class FlujoDeTrabajo{
  - private  String nombre;
  - private final List<IRecomendacion> recomendaciones;
  - private final List<IRetraso> retrasos;
- + public vois mostrarRecomendaciones();
+ + public void mostrarRecomendaciones();
  + public void mostrarRetrasos();
 
 }
