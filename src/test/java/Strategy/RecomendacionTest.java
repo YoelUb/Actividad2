@@ -1,4 +1,4 @@
-package strategy;
+package Strategy1;
 
 import com.Actividad2.Strategy.EstrategiaRecomendacion;
 import com.Actividad2.Strategy.Recomendacion;
