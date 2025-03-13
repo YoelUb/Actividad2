@@ -1,5 +1,5 @@
 # Actividad-2
-Link a Repostorio --> https://github.com/YoelUb/Actividad-2
+Link a Repostorio --> https://github.com/YoelUb/Actividad2
 
 En este proyecto se planteo realizar un desarrollo software para definir una arquitectura para una plataforma inteligente de gestión de proyectos potenciada por inteligencia artificial, la cual permitirá a los equipos optimizar sus flujos de trabajo, predecir retrasos y recibir recomendaciones para mejorar la productividad
 
@@ -46,7 +46,7 @@ Requisitos Previos:
 - Clonar el repositorio (Terminal):
 
   ```bash
-  git clone https://github.com/YoelUb/Actividad-2
+  git clone https://github.com/YoelUb/Actividad2.git
   
 # Contacto
 # Si tienes preguntas o sugerencias, contacta con yurqubar@myuax.com.

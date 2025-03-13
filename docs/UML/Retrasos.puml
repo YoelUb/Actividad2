@@ -1,0 +1,17 @@
+@startuml
+
+class Retrasos implements IRetraso{
+
+   - private int ID
+   - private int idTarea
+   - private LocalTime fechaEstimadaFinalizacion
+   - private LocalTime fechaRealFinalizacion
+   - private String motivoRetraso
+   - private int nivelGravedad
+   + public int calcularRetraso()
+   + public void getMotivoRetraso()
+
+}
+
+
+@enduml

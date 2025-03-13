@@ -1,0 +1,16 @@
+@startuml
+
+class FlujoDeTrabajo{
+
+ - private final int id;
+ - private  String nombre;
+ - private final List<IRecomendacion> recomendaciones;
+ - private final List<IRetraso> retrasos;
+ + public void mostrarRecomendaciones();
+ + public void mostrarRetrasos();
+
+}
+
+
+
+@enduml
